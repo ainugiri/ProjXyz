@@ -14,3 +14,16 @@ p{
     text-align: center;
     color: blue;
 }
+
+ul{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    color: orange;
+}
+
+li{
+    margin: 0;
+    padding: 0;
+    color: orange;
+}   
